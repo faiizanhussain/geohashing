@@ -1,0 +1,1 @@
+This is a simple geohashing library written in TypeScript.
